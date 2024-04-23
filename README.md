@@ -1,16 +1,20 @@
-### Hi there 👋
+# About me
 
-<!--
-**Micha3lR/Micha3lR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Hobbies Include:*
+1. Drone videography 🎥
+2. Landscaping 🌲
+3. Reading 📚
+   
+*Interests Include:*
+1. History 📜
+2. Psychology 🧠
+3. Paranormality 👻
+&nbsp;  
+&nbsp;  
+>"Death closes all: but something  
+>ere the end,  
+>Some work of noble note,  
+>may yet be done,  
+>Not unbecoming men that strove  
+>with **Gods**."
+>- Tennyson, *Ulysses*
